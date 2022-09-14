@@ -1,9 +1,11 @@
 # Test
 
-##Apartado A
+## Apartado A
 
 blablabla
+- Si
+- No
+- No se
 
-##Apartado B
-
-blablabla
+## TUX
+![Tux, the Linux mascot](/assets/images/tux.png)
