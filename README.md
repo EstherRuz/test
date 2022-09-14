@@ -2,10 +2,13 @@
 
 ## Apartado A
 
-blablabla
-- Si
-- No
-- No se
+Codigo:
 
+    <html>
+      <head>
+      </head>
+    </html>
+
+Esto es un codigo `HTML`! no `PHP`...
 ## TUX
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Tux, the Linux mascot](/tux.avif)
